@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgamx\\Downloads\\WebApiCoreWithEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47DA8611-D0D8-4142-8DB6-B9D558300E44}|WebApiCoreWithEF\\WebApiCoreWithEF.csproj|c:\\users\\kgamx\\downloads\\webapicorewithef\\webapicorewithef\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DA8611-D0D8-4142-8DB6-B9D558300E44}|WebApiCoreWithEF\\WebApiCoreWithEF.csproj|solutionrelative:webapicorewithef\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DA8611-D0D8-4142-8DB6-B9D558300E44}|WebApiCoreWithEF\\WebApiCoreWithEF.csproj|c:\\users\\kgamx\\downloads\\webapicorewithef\\webapicorewithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47DA8611-D0D8-4142-8DB6-B9D558300E44}|WebApiCoreWithEF\\WebApiCoreWithEF.csproj|solutionrelative:webapicorewithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DA8611-D0D8-4142-8DB6-B9D558300E44}|WebApiCoreWithEF\\WebApiCoreWithEF.csproj|c:\\users\\kgamx\\downloads\\webapicorewithef\\webapicorewithef\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DA8611-D0D8-4142-8DB6-B9D558300E44}|WebApiCoreWithEF\\WebApiCoreWithEF.csproj|solutionrelative:webapicorewithef\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DA8611-D0D8-4142-8DB6-B9D558300E44}|WebApiCoreWithEF\\WebApiCoreWithEF.csproj|c:\\users\\kgamx\\downloads\\webapicorewithef\\webapicorewithef\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47DA8611-D0D8-4142-8DB6-B9D558300E44}|WebApiCoreWithEF\\WebApiCoreWithEF.csproj|solutionrelative:webapicorewithef\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kgamx\\Downloads\\WebApiCoreWithEF\\WebApiCoreWithEF\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiCoreWithEF\\appsettings.json",
+              "ToolTip": "C:\\Users\\kgamx\\Downloads\\WebApiCoreWithEF\\WebApiCoreWithEF\\appsettings.json",
+              "RelativeToolTip": "WebApiCoreWithEF\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T05:14:48.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\kgamx\\Downloads\\WebApiCoreWithEF\\WebApiCoreWithEF\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApiCoreWithEF\\Startup.cs",
+              "ToolTip": "C:\\Users\\kgamx\\Downloads\\WebApiCoreWithEF\\WebApiCoreWithEF\\Startup.cs",
+              "RelativeToolTip": "WebApiCoreWithEF\\Startup.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T05:15:45.062Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kgamx\\Downloads\\WebApiCoreWithEF\\WebApiCoreWithEF\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiCoreWithEF\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kgamx\\Downloads\\WebApiCoreWithEF\\WebApiCoreWithEF\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiCoreWithEF\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T05:18:05.963Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\kgamx\\Downloads\\WebApiCoreWithEF\\WebApiCoreWithEF\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebApiCoreWithEF\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\kgamx\\Downloads\\WebApiCoreWithEF\\WebApiCoreWithEF\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebApiCoreWithEF\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T05:53:48.132Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
